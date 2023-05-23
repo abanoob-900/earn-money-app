@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/gamesFragment"
+        android:icon="@drawable/ic_home"
+        android:title="Games Lobby" />
+
+    <item
+        android:id="@+id/ordersFragment"
+        android:icon="@drawable/ic_my_order"
+        android:title="@string/my_orders" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/the_account" />
+
+</menu>
