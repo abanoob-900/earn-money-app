@@ -18,6 +18,48 @@
             android:layout_height="wrap_content"
             android:orientation="vertical">
 
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="match_parent"
+                android:layout_height="256dp"
+                android:background="@color/white"
+                android:layout_margin="16dp"
+                android:src="@drawable/bird" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/border_blue_bg"
+                android:padding="16dp"
+                android:drawablePadding="16dp"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="@color/purple_200"
+                android:drawableEnd="@drawable/ic_baseline_navigate_next_24"
+                android:drawableStart="@drawable/ic_profile"
+                android:text="Single Person Mode" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginEnd="16dp"
+                android:background="@drawable/border_orange_bg"
+                android:padding="16dp"
+                android:drawablePadding="16dp"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:textColor="#FF5722"
+                android:drawableEnd="@drawable/ic_baseline_navigate_next_24"
+                android:drawableStart="@drawable/ic_baseline_group_24"
+                android:text="Multiplayer Team" />
+
 
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>

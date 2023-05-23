@@ -3,10 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/drawable/border_blue_bg.xml" value="0.3828125" />
+        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/drawable/border_orange_bg.xml" value="0.3828125" />
+        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.3828125" />
+        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/drawable/ic_profile.xml" value="0.3828125" />
         <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/layout/fragment_games.xml" value="0.35260416666666666" />
-        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/layout/fragment_ranking.xml" value="0.36102564102564105" />
-        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/layout/fragment_rules.xml" value="0.36102564102564105" />
+        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/layout/fragment_games.xml" value="0.22" />
+        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/layout/fragment_ranking.xml" value="0.1" />
+        <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/layout/fragment_rules.xml" value="0.1" />
         <entry key="..\:/Abanoob Projects 2022/bob/EarnMoney/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
       </map>
     </option>
