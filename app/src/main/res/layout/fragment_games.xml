@@ -23,8 +23,35 @@
                 android:layout_width="match_parent"
                 android:layout_height="256dp"
                 android:background="@color/white"
-                android:layout_margin="16dp"
+                android:layout_marginTop="16dp"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
                 android:src="@drawable/bird" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="16dp"
+                android:layout_marginEnd="16dp"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="128dp"
+                    android:layout_height="8dp"
+                    android:background="@color/purple_500"/>
+
+                <View
+                    android:layout_width="48dp"
+                    android:layout_height="8dp"
+                    android:background="#FFC107"/>
+
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="8dp"
+                    android:layout_weight="1"
+                    android:background="#FF6155"/>
+
+            </LinearLayout>
 
             <TextView
                 android:id="@+id/textView"
@@ -59,7 +86,6 @@
                 android:drawableEnd="@drawable/ic_baseline_navigate_next_24"
                 android:drawableStart="@drawable/ic_baseline_group_24"
                 android:text="Multiplayer Team" />
-
 
         </LinearLayout>
     </androidx.core.widget.NestedScrollView>
