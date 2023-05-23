@@ -38,6 +38,8 @@ public class MainActivity extends AppCompatActivity {
             switch (navDestination.getId()) {
 
                 case R.id.gamesFragment:
+                case R.id.rulesFragment:
+                case R.id.rankingFragment:
 //                    binding.navHomeViewBottom.setVisibility(View.VISIBLE);
                     break;
 
